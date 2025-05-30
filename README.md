@@ -2,7 +2,7 @@
 
 This project is a RESTful API for managing books and their reviews. It allows users to register, log in, add books, retrieve book details, search for books, and submit/update/delete reviews for books.
 
-[**Interactive API Manual: Book Review System**]([link-to-your-hosted-interactive-manual-here-if-available-otherwise-mention-the-local-html-file](https://book-review-89829.web.app/))
+[**Interactive API Manual: Book Review System**]([https://book-review-89829.web.app/])
 
 
 ## 🚀 How to Run Locally
