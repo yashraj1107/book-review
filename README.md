@@ -2,6 +2,10 @@
 
 This project is a RESTful API for managing books and their reviews. It allows users to register, log in, add books, retrieve book details, search for books, and submit/update/delete reviews for books.
 
+## 📖 How to Access the API
+
+For a detailed, step-by-step tutorial on how to interact with the API endpoints (including example requests and responses using tools like Postman or Bruno), please refer to the comprehensive API Manual:
+
 [**Interactive API Manual: Book Review System**](https://book-review-89829.web.app/)
 
 
@@ -25,8 +29,7 @@ Before you start, make sure you have the following installed:
     ```bash
     git clone [https://github.com/yashraj1107/book-review.git](https://github.com/yashraj1107/book-review.git)
     ```
-    (Replace `yashraj1107` with your actual GitHub username if different, or use the repository URL you're using).
-
+    
 2.  **Navigate into the project directory:**
     ```bash
     cd book-review
@@ -60,9 +63,3 @@ Before you start, make sure you have the following installed:
     npm start
     ```
     The API should now be running locally, typically on `http://localhost:5000`.
-
-## 📖 How to Access the API
-
-For a detailed, step-by-step tutorial on how to interact with the API endpoints (including example requests and responses using tools like Postman or Bruno), please refer to the comprehensive API Manual:
-
-*(If you were to host the interactive manual, you'd put its live URL above. Otherwise, you can point users to the local `api_manual.html` file you generated, e.g., "Open `api_manual.html` in your browser for detailed instructions.")*
